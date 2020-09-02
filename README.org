@@ -12,74 +12,74 @@ recording; recordings may be pretty long and varied with content.
 
 *** PARALLELISM                                
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
-- singular \n 
+- *singular:*  
   one sound object.
   may also include quasi singular sounds like traffic at a distance.
   e.g. guitar string pluck
-- compound  \n
+- *compound:*  
   multiple distinct sound objects occuring to form an emergent sound object
   e.g. many pebbles hitting plastic, washing machine
-- parallel  
+- *parallel:*  
   multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 *** ENVELOPE                                      
 See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html][envelope]]
 The pattern in the overall intensity of the sound object.
 E.g pebbles shuffling in hand [compound impulse]
-- stationary  
+- *stationary:*  
   intensity is consistent, see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Stationary_Sound.html][stationary]]
-- impulse  
+- *impulse:*  
   sharp attack. see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Impact_Sound.html][impulse]]
-- pulse  
+- *pulse:*  
   a short envelope, without high attack
-- flux  
+- *flux:*  
   gradual change in intensity, growth or decay 
   e.g waves
 *** SPECTRUM                                         
-- broad  
+- *broad:*  
   imperceptible dominant pitch
   e.g. gong, noise
   (adapted from Schaeffer's 'complex mass' qualifier)
-- tonal  
+- *tonal:*  
   perceptible dominant pitch
   e.g. guitar string
-- moving  
+- *moving:*  
   is the dominant band or pitch moving?
   e.g. siren
   (adapted from Schaeffer's 'varied mass' qualifier)
 
 *** INTERNAL DYNAMICS                                 
 The pattern in the intensity of the sustained part of a sound. See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html][internal dynamics]]
-- granular  
+- *granular:*  
   The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]]
   e.g. a guiro
-- transients   
-  The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in
+- *transients:*   
+  The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - *sudden:* and brief fluctuation in
   a sound. 
   e.g. a record player that crackles
 *** TEXTURE 
 The qualitative feel of the sustained part of the sound
-- morphing   
-- steady   
-- spacious   
-- rub   
-- vocal   
-- scrape   
-- diffuse   
-- pure   
-- buzz   
-- fizz   
-- hiss   
-- harsh   
-- warm   
+- *morphing:*   
+- *steady:*   
+- *spacious:*   
+- *rub:*   
+- *vocal:*   
+- *scrape:*   
+- *diffuse:*   
+- *pure:*   
+- *buzz:*   
+- *fizz:*   
+- *hiss:*   
+- *harsh:*   
+- *warm:*   
 *** OBJECT VARIANCE                                
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object's]] across time. 
-- chaotic  
+- *chaotic:*  
   e.g. IKEA food section, busy market square, 
-- varied  
+- *varied:*  
   new sound objects succeed old ones with noticeably different qualities, but
   there is still structure
   e.g. voices on sidewalk of busy street, bird calls
-- nuanced  
+- *nuanced:*  
   subtle, or no variation in qualities of successive sound objects
   e.g. hitting a dog bowl different ways, different bird calls
 *** ELEMENT                                          
@@ -91,16 +91,16 @@ rain drops on leaves[water earth]
 water boiling[fire water]
 gust through the trees[air earth]
 
-- fire  
+- *fire:*  
   A non-kinetic process, like a chemical reaction, or electricity 
   e.g. broken light, radio static
-- earth  
+- *earth:*  
   Solids.
   e.g. exciting an object with another one, rustling leaves, plucking a string
-- air  
+- *air:*  
   Gas.
   e.g. wind, horns, whistles
-- water  
+- *water:*  
   Liquid.
   e.g. water stream
 
