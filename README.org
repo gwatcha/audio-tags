@@ -11,17 +11,11 @@ with solid objects' .
 Note that tags indicate the presence of some trait /at some/ point or region in a
 recording, since recordings may be pretty long and varied with content.
 
-I list them in the form of:
-#+begin_quote
-TAG GROUP :tag1:tag2
-- tag1
-  tag1 explanation
-...
-#+end_quote
-
 My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].
 
-*** PARALLELISM                                :singular:compound:parallel:
+I organize tags under tag groups.
+
+*** PARALLELISM                                
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
 - singular  
   one sound object.
@@ -32,7 +26,7 @@ Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][s
   e.g. many pebbles hitting plastic, washing machine
 - parallel  
   multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
-*** ENVELOPE                                      :stationary:impulse:pulse:flux:
+*** ENVELOPE                                      
 See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html][envelope]]
 The pattern in the overall intensity of the sound object.
 E.g pebbles shuffling in hand [compound impulse]
@@ -45,7 +39,7 @@ E.g pebbles shuffling in hand [compound impulse]
 - flux  
   gradual change in intensity, growth or decay 
   e.g waves
-*** SPECTRUM                                         :broad:tonal:shifting:
+*** SPECTRUM                                         
 - broad  
   imperceptible dominant pitch
   e.g. gong, noise
@@ -58,7 +52,7 @@ E.g pebbles shuffling in hand [compound impulse]
   e.g. siren
   (adapted from Schaeffer's 'varied mass' qualifier)
 
-*** INTERNAL DYNAMICS                                 :granular:transients:
+*** INTERNAL DYNAMICS                                 
 The pattern in the intensity of the sustained part of a sound. See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html][internal dynamics]]
 - granular  
   The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]]
@@ -67,9 +61,22 @@ The pattern in the intensity of the sustained part of a sound. See [[https://www
   The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in
   a sound. 
   e.g. a record player that crackles
-*** TEXTURE :morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+*** TEXTURE 
 The qualitative feel of the sustained part of the sound
-*** OBJECT VARIANCE                                :chaotic:varied:nuanced:
+- morphing   
+- steady   
+- spacious   
+- rub   
+- vocal   
+- scrape   
+- diffuse   
+- pure   
+- buzz   
+- fizz   
+- hiss   
+- harsh   
+- warm   
+*** OBJECT VARIANCE                                
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object's]] across time. 
 - chaotic  
   e.g. IKEA food section, busy market square, 
@@ -80,7 +87,7 @@ Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-web
 - nuanced  
   subtle, or no variation in qualities of successive sound objects
   e.g. hitting a dog bowl different ways, different bird calls
-*** ELEMENT                                          :fire:earth:air:water:
+*** ELEMENT                                          
 Elements involved in the production of the sound. This category helps me the most!
 Elements combine in an intuitive way. For example:
 

@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Audio Classification With Tags/Qualifiers:](#org0ed9e7b)
-    1.  [Tags](#org87926e2)
-        1.  [PARALLELISM](#org22fd1e9):singular:compound:parallel:
-        2.  [ENVELOPE](#orgf48f461):stationary:impulse:pulse:flux:
-        3.  [SPECTRUM](#org908bcda):broad:tonal:shifting:
-        4.  [INTERNAL DYNAMICS](#org5171122):granular:transients:
-        5.  [TEXTURE](#orgf97d221):morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
-        6.  [OBJECT VARIANCE](#org2b2d229):chaotic:varied:nuanced:
-        7.  [ELEMENT](#org686c966):fire:earth:air:water:
-    2.  [Examples](#orgaf53d6c)
+1.  [Audio Classification With Tags/Qualifiers:](#org6f32f53)
+    1.  [Tags](#orgeef50f6)
+        1.  [PARALLELISM](#org0f1ac52)
+        2.  [ENVELOPE](#org9d89ca5)
+        3.  [SPECTRUM](#org5b6b959)
+        4.  [INTERNAL DYNAMICS](#org4a91cf6)
+        5.  [TEXTURE](#org4d44b93)
+        6.  [OBJECT VARIANCE](#org6e61836)
+        7.  [ELEMENT](#org57e164d)
+    2.  [Examples](#org9fa356e)
 
 
-<a id="org0ed9e7b"></a>
+<a id="org6f32f53"></a>
 
 # Audio Classification With Tags/Qualifiers:
 
@@ -25,28 +25,21 @@ characteristics. As an example, I could get all my recordings that have
 with solid objects' .
 
 
-<a id="org87926e2"></a>
+<a id="orgeef50f6"></a>
 
 ## Tags
 
 Note that tags indicate the presence of some trait *at some* point or region in a
 recording, since recordings may be pretty long and varied with content.
 
-I list them in the form of:
-
-> TAG GROUP :tag1:tag2
-> 
-> -   tag1
->     tag1 explanation
-> 
-> &#x2026;
-
 My main source was this [handbook](https://www.sfu.ca/sonic-studio-webdav/handbook/index.html).
 
+I organize tags under tag groups.
 
-<a id="org22fd1e9"></a>
 
-### PARALLELISM     :singular:compound:parallel:
+<a id="org0f1ac52"></a>
+
+### PARALLELISM
 
 Amount of [sound objects](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html) that occur at once.
 
@@ -61,9 +54,9 @@ Amount of [sound objects](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_
     multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 
 
-<a id="orgf48f461"></a>
+<a id="org9d89ca5"></a>
 
-### ENVELOPE     :stationary:impulse:pulse:flux:
+### ENVELOPE
 
 See [envelope](https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html)
 The pattern in the overall intensity of the sound object.
@@ -80,9 +73,9 @@ E.g pebbles shuffling in hand [compound impulse]
     e.g waves
 
 
-<a id="org908bcda"></a>
+<a id="org5b6b959"></a>
 
-### SPECTRUM     :broad:tonal:shifting:
+### SPECTRUM
 
 -   broad  
     imperceptible dominant pitch
@@ -97,9 +90,9 @@ E.g pebbles shuffling in hand [compound impulse]
     (adapted from Schaeffer's 'varied mass' qualifier)
 
 
-<a id="org5171122"></a>
+<a id="org4a91cf6"></a>
 
-### INTERNAL DYNAMICS     :granular:transients:
+### INTERNAL DYNAMICS
 
 The pattern in the intensity of the sustained part of a sound. See [internal dynamics](https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html)
 
@@ -112,16 +105,30 @@ The pattern in the intensity of the sustained part of a sound. See [internal dyn
     e.g. a record player that crackles
 
 
-<a id="orgf97d221"></a>
+<a id="org4d44b93"></a>
 
-### TEXTURE     :morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+### TEXTURE
 
 The qualitative feel of the sustained part of the sound
 
+-   morphing
+-   steady
+-   spacious
+-   rub
+-   vocal
+-   scrape
+-   diffuse
+-   pure
+-   buzz
+-   fizz
+-   hiss
+-   harsh
+-   warm
 
-<a id="org2b2d229"></a>
 
-### OBJECT VARIANCE     :chaotic:varied:nuanced:
+<a id="org6e61836"></a>
+
+### OBJECT VARIANCE
 
 Describes the variance of the qualities of [sound object's](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html) across time. 
 
@@ -136,9 +143,9 @@ Describes the variance of the qualities of [sound object's](https://www.sfu.ca/s
     e.g. hitting a dog bowl different ways, different bird calls
 
 
-<a id="org686c966"></a>
+<a id="org57e164d"></a>
 
-### ELEMENT     :fire:earth:air:water:
+### ELEMENT
 
 Elements involved in the production of the sound. This category helps me the most!
 Elements combine in an intuitive way. For example:
@@ -162,7 +169,7 @@ gust through the trees[air earth]
     e.g. water stream
 
 
-<a id="orgaf53d6c"></a>
+<a id="org9fa356e"></a>
 
 ## Examples
 
