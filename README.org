@@ -85,13 +85,6 @@ Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-web
   e.g. hitting a dog bowl different ways
 *** ELEMENT                                          
 Elements involved in the production of the sound. This category helps me the most!
-Elements combine in an intuitive way. For example:
-
-- electric saw cutting[fire earth]
-- rain drops on leaves[water earth]
-- water boiling[fire water]
-- gust through the trees[air earth]
-
 - *fire:*  
   A non-kinetic process, like a chemical reaction, or electricity 
   e.g. broken light, radio static
