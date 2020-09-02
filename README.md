@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Audio Classification With Tags/Qualifiers:](#org6980a62)
-    1.  [Tags](#org2e53c13)
-        1.  [PARALLELISM](#org7dd4644):singular:compound:parallel:
-        2.  [ENVELOPE](#org1556975):stationary:impulse:pulse:flux:
-        3.  [SPECTRUM](#org105a9cc):broad:tonal:shifting:
-        4.  [INTERNAL DYNAMICS](#org0eb57e1):granular:transients:
-        5.  [TEXTURE](#org16e97a8):morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
-        6.  [OBJECT VARIANCE](#org55d39eb):chaotic:varied:nuanced:
-        7.  [ELEMENT](#org20cd87f):fire:earth:air:water:
-    2.  [Examples](#org5875dc2)
+1.  [Audio Classification With Tags/Qualifiers:](#org0ed9e7b)
+    1.  [Tags](#org87926e2)
+        1.  [PARALLELISM](#org22fd1e9):singular:compound:parallel:
+        2.  [ENVELOPE](#orgf48f461):stationary:impulse:pulse:flux:
+        3.  [SPECTRUM](#org908bcda):broad:tonal:shifting:
+        4.  [INTERNAL DYNAMICS](#org5171122):granular:transients:
+        5.  [TEXTURE](#orgf97d221):morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+        6.  [OBJECT VARIANCE](#org2b2d229):chaotic:varied:nuanced:
+        7.  [ELEMENT](#org686c966):fire:earth:air:water:
+    2.  [Examples](#orgaf53d6c)
 
 
-<a id="org6980a62"></a>
+<a id="org0ed9e7b"></a>
 
 # Audio Classification With Tags/Qualifiers:
 
@@ -25,7 +25,7 @@ characteristics. As an example, I could get all my recordings that have
 with solid objects' .
 
 
-<a id="org2e53c13"></a>
+<a id="org87926e2"></a>
 
 ## Tags
 
@@ -44,24 +44,24 @@ I list them in the form of:
 My main source was this [handbook](https://www.sfu.ca/sonic-studio-webdav/handbook/index.html).
 
 
-<a id="org7dd4644"></a>
+<a id="org22fd1e9"></a>
 
 ### PARALLELISM     :singular:compound:parallel:
 
 Amount of [sound objects](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html) that occur at once.
 
--   singular
+-   singular  
     one sound object.
     may also include quasi singular sounds like traffic at a distance.
     e.g. guitar string pluck
--   compound
+-   compound  
     multiple distinct sound objects occuring to form an emergent sound object
     e.g. many pebbles hitting plastic, washing machine
--   parallel
+-   parallel  
     multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 
 
-<a id="org1556975"></a>
+<a id="orgf48f461"></a>
 
 ### ENVELOPE     :stationary:impulse:pulse:flux:
 
@@ -69,74 +69,74 @@ See [envelope](https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html)
 The pattern in the overall intensity of the sound object.
 E.g pebbles shuffling in hand [compound impulse]
 
--   stationary
+-   stationary  
     intensity is consistent, see [stationary](https://www.sfu.ca/sonic-studio-webdav/handbook/Stationary_Sound.html)
--   impulse
+-   impulse  
     sharp attack. see [impulse](https://www.sfu.ca/sonic-studio-webdav/handbook/Impact_Sound.html)
--   pulse
+-   pulse  
     a short envelope, without high attack
--   flux
+-   flux  
     gradual change in intensity, growth or decay 
     e.g waves
 
 
-<a id="org105a9cc"></a>
+<a id="org908bcda"></a>
 
 ### SPECTRUM     :broad:tonal:shifting:
 
--   broad
+-   broad  
     imperceptible dominant pitch
     e.g. gong, noise
     (adapted from Schaeffer's 'complex mass' qualifier)
--   tonal
+-   tonal  
     perceptible dominant pitch
     e.g. guitar string
--   moving
+-   moving  
     is the dominant band or pitch moving?
     e.g. siren
     (adapted from Schaeffer's 'varied mass' qualifier)
 
 
-<a id="org0eb57e1"></a>
+<a id="org5171122"></a>
 
 ### INTERNAL DYNAMICS     :granular:transients:
 
 The pattern in the intensity of the sustained part of a sound. See [internal dynamics](https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html)
 
--   granular
+-   granular  
     The sustained sound is made of [grains](https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html)
     e.g. a guiro
--   transients 
+-   transients   
     The sustained sound has [transients](https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html) - sudden and brief fluctuation in
     a sound. 
     e.g. a record player that crackles
 
 
-<a id="org16e97a8"></a>
+<a id="orgf97d221"></a>
 
 ### TEXTURE     :morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
 
 The qualitative feel of the sustained part of the sound
 
 
-<a id="org55d39eb"></a>
+<a id="org2b2d229"></a>
 
 ### OBJECT VARIANCE     :chaotic:varied:nuanced:
 
 Describes the variance of the qualities of [sound object's](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html) across time. 
 
--   chaotic
+-   chaotic  
     e.g. IKEA food section, busy market square,
--   varied
+-   varied  
     new sound objects succeed old ones with noticeably different qualities, but
     there is still structure
     e.g. voices on sidewalk of busy street, bird calls
--   nuanced
+-   nuanced  
     subtle, or no variation in qualities of successive sound objects
     e.g. hitting a dog bowl different ways, different bird calls
 
 
-<a id="org20cd87f"></a>
+<a id="org686c966"></a>
 
 ### ELEMENT     :fire:earth:air:water:
 
@@ -148,21 +148,21 @@ rain drops on leaves[water earth]
 water boiling[fire water]
 gust through the trees[air earth]
 
--   fire
+-   fire  
     A non-kinetic process, like a chemical reaction, or electricity 
     e.g. broken light, radio static
--   earth
+-   earth  
     Solids.
     e.g. exciting an object with another one, rustling leaves, plucking a string
--   air
+-   air  
     Gas.
     e.g. wind, horns, whistles
--   water
+-   water  
     Liquid.
     e.g. water stream
 
 
-<a id="org5875dc2"></a>
+<a id="orgaf53d6c"></a>
 
 ## Examples
 
