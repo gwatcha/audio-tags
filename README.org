@@ -56,21 +56,17 @@ is the dominant band or pitch moving?
 e.g. siren
 (adapted from Schaeffer's 'varied mass' qualifier)
 
-*** TEXTURE
-Tags related to texture. Texture characterizes the 'sustain' of a sound object.
-**** INTERNAL DYNAMICS                               :granular:transients:
+*** INTERNAL DYNAMICS                                 :granular:transients:
 The pattern in the intensity of the sustained part of a sound. See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html][internal dynamics]]
-***** granular
+**** granular
 The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]]
 e.g. a guiro
-***** transients 
+**** transients 
 The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in
 a sound. 
 e.g. a record player that crackles
-**** QUALITY :spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
-The qualitative feel of the texture
-**** CHANGE                                              :morphing:steady:
-Textural qualities range / consistency of a sound object.
+*** TEXTURE :morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+The qualitative feel of the sustained part of the sound
 *** OBJECT VARIANCE                                :chaotic:varied:nuanced:
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object's]] across time. 
 **** chaotic

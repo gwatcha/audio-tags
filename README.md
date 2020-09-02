@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [Audio Classification With Tags/Qualifiers:](#orgcbe1504)
-    1.  [Tags](#org4710482)
-        1.  [PARALLELISM](#org6699dbe):singular:compound:parallel:
-        2.  [ENVELOPE](#org9ebca73):stationary:impulse:pulse:flux:
-        3.  [SPECTRUM](#orgeaba670):broad:tonal:shifting:
-        4.  [TEXTURE](#orged96c94)
-        5.  [OBJECT VARIANCE](#org407c010):chaotic:varied:nuanced:
-        6.  [ELEMENT](#orga1e064e):fire:earth:air:water:
-    2.  [Examples](#org9b6907f)
-    3.  [Sources](#orgb8b6038)
+1.  [Audio Classification With Tags/Qualifiers:](#org3d92e9d)
+    1.  [Tags](#orgabb1783)
+        1.  [PARALLELISM](#orgb4e8fb9):singular:compound:parallel:
+        2.  [ENVELOPE](#org1674ce4):stationary:impulse:pulse:flux:
+        3.  [SPECTRUM](#orge69e3d6):broad:tonal:shifting:
+        4.  [INTERNAL DYNAMICS](#org8c83d2a):granular:transients:
+        5.  [TEXTURE](#org609dcc6):morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+        6.  [OBJECT VARIANCE](#orge320da4):chaotic:varied:nuanced:
+        7.  [ELEMENT](#org8b27261):fire:earth:air:water:
+    2.  [Examples](#org5e1d8d7)
+    3.  [Sources](#org7fd3a63)
 
 
-<a id="orgcbe1504"></a>
+<a id="org3d92e9d"></a>
 
 # Audio Classification With Tags/Qualifiers:
 
@@ -25,7 +26,7 @@ characteristics. As an example, I could get all my recordings that have
 with solid objects' .
 
 
-<a id="org4710482"></a>
+<a id="orgabb1783"></a>
 
 ## Tags
 
@@ -42,7 +43,7 @@ I list them in the form of:
 > &#x2026;
 
 
-<a id="org6699dbe"></a>
+<a id="orgb4e8fb9"></a>
 
 ### PARALLELISM     :singular:compound:parallel:
 
@@ -64,7 +65,7 @@ Amount of [sound objects](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_
     multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 
 
-<a id="org9ebca73"></a>
+<a id="org1674ce4"></a>
 
 ### ENVELOPE     :stationary:impulse:pulse:flux:
 
@@ -90,7 +91,7 @@ E.g pebbles shuffling in hand [compound impulse]
     e.g waves
 
 
-<a id="orgeaba670"></a>
+<a id="orge69e3d6"></a>
 
 ### SPECTRUM     :broad:tonal:shifting:
 
@@ -112,37 +113,32 @@ E.g pebbles shuffling in hand [compound impulse]
     (adapted from Schaeffer's 'varied mass' qualifier)
 
 
-<a id="orged96c94"></a>
+<a id="org8c83d2a"></a>
 
-### TEXTURE
+### INTERNAL DYNAMICS     :granular:transients:
 
-Tags related to texture. Texture characterizes the 'sustain' of a sound object.
+The pattern in the intensity of the sustained part of a sound. See [internal dynamics](https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html)
 
-1.  INTERNAL DYNAMICS     :granular:transients:
+1.  granular
 
-    The pattern in the intensity of the sustained part of a sound. See [internal dynamics](https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html)
-    
-    1.  granular
-    
-        The sustained sound is made of [grains](https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html)
-        e.g. a guiro
-    
-    2.  transients
-    
-        The sustained sound has [transients](https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html) - sudden and brief fluctuation in
-        a sound. 
-        e.g. a record player that crackles
+    The sustained sound is made of [grains](https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html)
+    e.g. a guiro
 
-2.  QUALITY     :spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+2.  transients
 
-    The qualitative feel of the texture
-
-3.  CHANGE     :morphing:steady:
-
-    Textural qualities range / consistency of a sound object.
+    The sustained sound has [transients](https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html) - sudden and brief fluctuation in
+    a sound. 
+    e.g. a record player that crackles
 
 
-<a id="org407c010"></a>
+<a id="org609dcc6"></a>
+
+### TEXTURE     :morphing:steady:spacious:rub:vocal:scrape:diffuse:pure:buzz:fizz:hiss:harsh:warm:
+
+The qualitative feel of the sustained part of the sound
+
+
+<a id="orge320da4"></a>
 
 ### OBJECT VARIANCE     :chaotic:varied:nuanced:
 
@@ -164,7 +160,7 @@ Describes the variance of the qualities of [sound object's](https://www.sfu.ca/s
     e.g. hitting a dog bowl different ways, different bird calls
 
 
-<a id="orga1e064e"></a>
+<a id="org8b27261"></a>
 
 ### ELEMENT     :fire:earth:air:water:
 
@@ -197,7 +193,7 @@ gust through the trees[air earth]
     e.g. water stream
 
 
-<a id="org9b6907f"></a>
+<a id="org5e1d8d7"></a>
 
 ## Examples
 
@@ -209,7 +205,7 @@ gust through the trees[air earth]
 -   blown bottle top[compound stationary tonal hiss steady air earth]
 
 
-<a id="orgb8b6038"></a>
+<a id="org7fd3a63"></a>
 
 ## Sources
 
