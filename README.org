@@ -30,7 +30,7 @@ E.g pebbles shuffling in hand [compound impulse]
 - *impulse:*  
   sharp attack. see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Impact_Sound.html][impulse]]
 - *pulse:*  
-  a short envelope, without high attack
+  a short envelope, without a sharp attack
 - *flux:*  
   gradual change in intensity, growth or decay 
   e.g waves
@@ -42,6 +42,7 @@ E.g pebbles shuffling in hand [compound impulse]
 - *tonal:*  
   perceptible dominant pitch
   e.g. guitar string
+  (adapted from Schaeffer's 'tonal mass' qualifier)
 - *moving:*  
   is the dominant band or pitch moving?
   e.g. siren
@@ -53,7 +54,7 @@ The pattern in the intensity of the sustained part of a sound. See [[https://www
   The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]]
   e.g. a guiro
 - *transients:*   
-  The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - *sudden:* and brief fluctuation in
+  The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in
   a sound. 
   e.g. a record player that crackles
 *** TEXTURE 
@@ -72,7 +73,7 @@ The qualitative feel of the sustained part of the sound
 - *harsh:*   
 - *warm:*   
 *** OBJECT VARIANCE                                
-Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object's]] across time. 
+Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]'s across time. 
 - *chaotic:*  
   e.g. IKEA food section, busy market square, 
 - *varied:*  
