@@ -61,7 +61,6 @@ The pattern in the intensity of the sustained part of a sound. See [[https://www
 The qualitative feel of the sustained part of the sound
 - *morphing:*   
 - *steady:*   
-- *spacious:*   
 - *rub:*   
 - *vocal:*   
 - *scrape:*   
@@ -72,6 +71,7 @@ The qualitative feel of the sustained part of the sound
 - *hiss:*   
 - *harsh:*   
 - *warm:*   
+- *energetic*:
 *** OBJECT VARIANCE                                
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]'s across time. 
 - *chaotic:*  
@@ -105,5 +105,7 @@ Elements involved in the production of the sound. This category helps me the mos
 - xylophone mallet hit[singular impulse flux tonal steady pure earth]
 - radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
 - blown bottle top[compound stationary tonal hiss steady air earth]
+- electric saw on wood[compound stationary broad moving granular morphing
+  buzz hiss harsh energetic nuanced fire earth]
 ** References
 My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].
