@@ -82,7 +82,7 @@ Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-web
   e.g. voices on sidewalk of busy street, bird calls
 - *nuanced:*  
   subtle, or no variation in qualities of successive sound objects
-  e.g. hitting a dog bowl different ways, different bird calls
+  e.g. hitting a dog bowl different ways
 *** ELEMENT                                          
 Elements involved in the production of the sound. This category helps me the most!
 Elements combine in an intuitive way. For example:
