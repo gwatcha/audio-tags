@@ -1,3 +1,4 @@
+
 # Table of Contents
 
 1.  [Audio Classification With Tags/Qualifiers:](#org705a57f)
@@ -170,10 +171,10 @@ Describes the variance of the qualities of [sound object's](https://www.sfu.ca/s
 Elements involved in the production of the sound. This category helps me the most!
 Elements combine in an intuitive way. For example:
 
-electric saw cutting[fire earth]
-rain drops on leaves[water earth]
-water boiling[fire water]
-gust through the trees[air earth]
+- electric saw cutting[fire earth]
+- rain drops on leaves[water earth]
+- water boiling[fire water]
+- gust through the trees[air earth]
 
 1.  fire
 
@@ -200,12 +201,12 @@ gust through the trees[air earth]
 
 ## Examples
 
-cafeteria ambience[parallel stationary air earth chaotic]
-birds in forest[compound pulse tonal vocal varied]
-dog bark[singular pulse broad vocal]
-xylophone mallet hit[singular impulse flux tonal steady pure earth]
-radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
-blown bottle top[compound stationary tonal hiss steady air earth]
+- cafeteria ambience[parallel stationary air earth chaotic]
+- birds in forest[compound pulse tonal vocal varied]
+- dog bark[singular pulse broad vocal]
+- xylophone mallet hit[singular impulse flux tonal steady pure earth]
+- radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
+- blown bottle top[compound stationary tonal hiss steady air earth]
 
 
 <a id="org778ed2f"></a>
