@@ -12,56 +12,35 @@ recording; recordings may be pretty long and varied with content.
 
 *** PARALLELISM                                
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
-- *singular:*  
-  one sound object.
-  may also include quasi singular sounds like traffic at a distance.
-  e.g. guitar string pluck
-- *compound:*  
-  multiple distinct sound objects occuring to form an emergent sound object
-  e.g. many pebbles hitting plastic, washing machine
-- *parallel:*  
-  multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
+- *singular:* one sound object. may also include quasi singular sounds like traffic at a distance. e.g. guitar string pluck
+- *compound:* multiple distinct sound objects occuring to form an emergent sound object e.g. many pebbles hitting plastic, washing machine
+- *parallel:* multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 *** ENVELOPE                                      
 See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html][envelope]]
 The pattern in the overall intensity of the sound object.
 E.g pebbles shuffling in hand [compound impulse]
-- *stationary:*  
-  intensity is consistent, see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Stationary_Sound.html][stationary]]
-- *impulse:*  
-  sharp attack. see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Impact_Sound.html][impulse]]
-- *pulse:*  
-  a short envelope, without a sharp attack
-- *flux:*  
-  gradual change in intensity, growth or decay 
-  e.g waves
+- *stationary:* intensity is consistent, see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Stationary_Sound.html][stationary]]
+- *impulse:* sharp attack. see [[https://www.sfu.ca/sonic-studio-webdav/handbook/Impact_Sound.html][impulse]]
+- *pulse:* a short envelope, without a sharp attack
+- *flux:* gradual change in intensity, growth or decay e.g waves
 *** SPECTRUM                                         
-- *broad:*  
-  imperceptible dominant pitch
-  e.g. gong, noise
-  (adapted from Schaeffer's 'complex mass' qualifier)
-- *tonal:*  
-  perceptible dominant pitch
-  e.g. guitar string
-  (adapted from Schaeffer's 'tonal mass' qualifier)
-- *moving:*  
-  is the dominant band or pitch moving?
-  e.g. siren
-  (adapted from Schaeffer's 'varied mass' qualifier)
+- *broad:* imperceptible dominant pitch e.g. gong, noise (adapted from Schaeffer's 'complex mass' qualifier)
+- *tonal:* perceptible dominant pitch e.g. guitar string (adapted from Schaeffer's 'tonal mass' qualifier)
+- *moving:* is the dominant band or pitch moving? e.g. siren (adapted from Schaeffer's 'varied mass' qualifier)
 
 *** INTERNAL DYNAMICS                                 
 The pattern in the intensity of the sustained part of a sound. See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html][internal dynamics]]
-- *granular:*  
-  The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]]
-  e.g. a guiro
-- *transients:*   
-  The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in
-  a sound. 
-  e.g. a record player that crackles
+- *granular:* The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]] e.g. a guiro
+- *transients:* The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in a sound. e.g. a record player that crackles
 *** TEXTURE 
 The qualitative feel of the sustained part of the sound
 - *morphing:*   
-- *steady:*   
+- *steady:*
+- *synthetic*
 - *rub:*   
+- *ruffle:*   
+- *squeek*   
+- *crush*   
 - *vocal:*   
 - *scrape:*   
 - *diffuse:*   
@@ -74,29 +53,15 @@ The qualitative feel of the sustained part of the sound
 - *energetic*:
 *** OBJECT VARIANCE                                
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]'s across time. 
-- *chaotic:*  
-  e.g. IKEA food section, busy market square, 
-- *varied:*  
-  new sound objects succeed old ones with noticeably different qualities, but
-  there is still structure
-  e.g. voices on sidewalk of busy street, bird calls
-- *nuanced:*  
-  subtle, or no variation in qualities of successive sound objects
-  e.g. hitting a dog bowl different ways
+- *chaotic:* e.g. IKEA food section, busy market square, 
+- *varied:* new sound objects succeed old ones with noticeably different qualities, but there is still structure e.g. voices on sidewalk of busy street, bird calls
+- *nuanced:* subtle, or no variation in qualities of successive sound objects e.g. hitting a dog bowl different ways
 *** ELEMENT                                          
 Elements involved in the production of the sound. This category helps me the most!
-- *fire:*  
-  A non-kinetic process, like a chemical reaction, or electricity 
-  e.g. broken light, radio static
-- *earth:*  
-  Solids.
-  e.g. exciting an object with another one, rustling leaves, plucking a string
-- *air:*  
-  Gas.
-  e.g. wind, horns, whistles
-- *water:*  
-  Liquid.
-  e.g. water stream
+- *fire:* A non-kinetic process, like a chemical reaction, or electricity e.g. broken light, radio static
+- *earth:* Solids. e.g. exciting an object with another one, rustling leaves, plucking a string
+- *air:* Gas. e.g. wind, horns, whistles
+- *water:* Liquid. e.g. water stream
 
 ** Examples
 - cafeteria ambience[parallel stationary air earth chaotic]
