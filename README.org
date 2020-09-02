@@ -6,13 +6,18 @@ characteristics. As an example, I could get all my recordings that have
 'envelopes with sharp attack, steady texture, a single sound source, and made
 with solid objects' .
 
-** Definitions
-'[[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]' : the smallest self-contained element of a [[https://www.sfu.ca/sonic-studio-webdav/handbook/Soundscape.html][soundscape]]. In my model, sound objects live as long
-as their [[https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html][envelope]] lives.
 
 ** Tag/Qualifier Groups
 Note that tags indicate the presence of some trait /at some/ point or region in a
 recording, since recordings may be pretty long and varied with content.
+
+They are listed in the form:
+TAG GROUP :tag1:tag2:...
+  tag group explanation
+  - tag1
+     tag1 explanation
+
+The definition of a '[[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]'  is: the smallest self-contained element of a [[https://www.sfu.ca/sonic-studio-webdav/handbook/Soundscape.html][soundscape]]. In my model, sound objects live as long as their [[https://www.sfu.ca/sonic-studio-webdav/handbook/Envelope.html][envelope]] lives.
 
 *** PARALLELISM                                :singular:compound:parallel:
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
@@ -108,3 +113,4 @@ e.g. water stream
 - blown bottle top[compound stationary tonal hiss steady air earth]
 ** Sources
 My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].
+
