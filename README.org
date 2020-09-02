@@ -12,11 +12,11 @@ recording; recordings may be pretty long and varied with content.
 
 *** PARALLELISM                                
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
-- singular  
+- singular \n 
   one sound object.
   may also include quasi singular sounds like traffic at a distance.
   e.g. guitar string pluck
-- compound  
+- compound  \n
   multiple distinct sound objects occuring to form an emergent sound object
   e.g. many pebbles hitting plastic, washing machine
 - parallel  
