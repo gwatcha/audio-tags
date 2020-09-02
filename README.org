@@ -6,14 +6,9 @@ characteristics. As an example, I could get all my recordings that have
 'envelopes with sharp attack, steady texture, a single sound source, and made
 with solid objects' .
 
-
-** Tags
-Note that tags indicate the presence of some trait /at some/ point or region in a
-recording, since recordings may be pretty long and varied with content.
-
-My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].
-
-I organize tags under tag groups.
+** Tag Groups
+Note that the tags in the following tag groups indicate the presence of some trait /at some/ point or region in a
+recording; recordings may be pretty long and varied with content.
 
 *** PARALLELISM                                
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
@@ -116,4 +111,5 @@ gust through the trees[air earth]
 - xylophone mallet hit[singular impulse flux tonal steady pure earth]
 - radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
 - blown bottle top[compound stationary tonal hiss steady air earth]
-
+** References
+My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].

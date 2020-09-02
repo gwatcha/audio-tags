@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [Audio Classification With Tags/Qualifiers:](#org6f32f53)
-    1.  [Tags](#orgeef50f6)
-        1.  [PARALLELISM](#org0f1ac52)
-        2.  [ENVELOPE](#org9d89ca5)
-        3.  [SPECTRUM](#org5b6b959)
-        4.  [INTERNAL DYNAMICS](#org4a91cf6)
-        5.  [TEXTURE](#org4d44b93)
-        6.  [OBJECT VARIANCE](#org6e61836)
-        7.  [ELEMENT](#org57e164d)
-    2.  [Examples](#org9fa356e)
+1.  [Audio Classification With Tags/Qualifiers:](#orgda2bb23)
+    1.  [Tag Groups](#org5709b33)
+        1.  [PARALLELISM](#org451d6e9)
+        2.  [ENVELOPE](#org67f779c)
+        3.  [SPECTRUM](#org75f5550)
+        4.  [INTERNAL DYNAMICS](#orge2ab9bf)
+        5.  [TEXTURE](#orgd222a7e)
+        6.  [OBJECT VARIANCE](#org4ed9b5f)
+        7.  [ELEMENT](#org16538a6)
+    2.  [Examples](#orgd8af8ab)
+    3.  [References](#org8bb1833)
 
 
-<a id="org6f32f53"></a>
+<a id="orgda2bb23"></a>
 
 # Audio Classification With Tags/Qualifiers:
 
@@ -25,19 +26,15 @@ characteristics. As an example, I could get all my recordings that have
 with solid objects' .
 
 
-<a id="orgeef50f6"></a>
+<a id="org5709b33"></a>
 
-## Tags
+## Tag Groups
 
-Note that tags indicate the presence of some trait *at some* point or region in a
-recording, since recordings may be pretty long and varied with content.
-
-My main source was this [handbook](https://www.sfu.ca/sonic-studio-webdav/handbook/index.html).
-
-I organize tags under tag groups.
+Note that the tags in the following tag groups indicate the presence of some trait *at some* point or region in a
+recording; recordings may be pretty long and varied with content.
 
 
-<a id="org0f1ac52"></a>
+<a id="org451d6e9"></a>
 
 ### PARALLELISM
 
@@ -54,7 +51,7 @@ Amount of [sound objects](https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_
     multiple non-emergent objects or compound objects co-occuring (cafeteria, sidewalk ambience)
 
 
-<a id="org9d89ca5"></a>
+<a id="org67f779c"></a>
 
 ### ENVELOPE
 
@@ -73,7 +70,7 @@ E.g pebbles shuffling in hand [compound impulse]
     e.g waves
 
 
-<a id="org5b6b959"></a>
+<a id="org75f5550"></a>
 
 ### SPECTRUM
 
@@ -90,7 +87,7 @@ E.g pebbles shuffling in hand [compound impulse]
     (adapted from Schaeffer's 'varied mass' qualifier)
 
 
-<a id="org4a91cf6"></a>
+<a id="orge2ab9bf"></a>
 
 ### INTERNAL DYNAMICS
 
@@ -105,7 +102,7 @@ The pattern in the intensity of the sustained part of a sound. See [internal dyn
     e.g. a record player that crackles
 
 
-<a id="org4d44b93"></a>
+<a id="orgd222a7e"></a>
 
 ### TEXTURE
 
@@ -126,7 +123,7 @@ The qualitative feel of the sustained part of the sound
 -   warm
 
 
-<a id="org6e61836"></a>
+<a id="org4ed9b5f"></a>
 
 ### OBJECT VARIANCE
 
@@ -143,7 +140,7 @@ Describes the variance of the qualities of [sound object's](https://www.sfu.ca/s
     e.g. hitting a dog bowl different ways, different bird calls
 
 
-<a id="org57e164d"></a>
+<a id="org16538a6"></a>
 
 ### ELEMENT
 
@@ -169,7 +166,7 @@ gust through the trees[air earth]
     e.g. water stream
 
 
-<a id="org9fa356e"></a>
+<a id="orgd8af8ab"></a>
 
 ## Examples
 
@@ -179,4 +176,11 @@ gust through the trees[air earth]
 -   xylophone mallet hit[singular impulse flux tonal steady pure earth]
 -   radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
 -   blown bottle top[compound stationary tonal hiss steady air earth]
+
+
+<a id="org8bb1833"></a>
+
+## References
+
+My main source was this [handbook](https://www.sfu.ca/sonic-studio-webdav/handbook/index.html).
 
