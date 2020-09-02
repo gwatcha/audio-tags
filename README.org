@@ -7,9 +7,17 @@ characteristics. As an example, I could get all my recordings that have
 with solid objects' .
 
 
-** Tag/Qualifier Groups
+** Tags
 Note that tags indicate the presence of some trait /at some/ point or region in a
 recording, since recordings may be pretty long and varied with content.
+
+I list them in the form of:
+#+begin_quote
+TAG GROUP :tag1:tag2
+- tag1
+  tag1 explanation
+...
+#+end_quote
 
 *** PARALLELISM                                :singular:compound:parallel:
 Amount of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound objects]] that occur at once.
