@@ -26,14 +26,14 @@ E.g pebbles shuffling in hand [compound impulse]
 *** SPECTRUM                                         
 - *broad:* imperceptible dominant pitch e.g. gong, noise (adapted from Schaeffer's 'complex mass' qualifier)
 - *tonal:* perceptible dominant pitch e.g. guitar string (adapted from Schaeffer's 'tonal mass' qualifier)
-- *moving:* is the dominant band or pitch moving? e.g. siren (adapted from Schaeffer's 'varied mass' qualifier)
+- *shifting:* is the dominant band or pitch moving? e.g. siren (adapted from Schaeffer's 'varied mass' qualifier)
 
 *** INTERNAL DYNAMICS                                 
 The pattern in the intensity of the sustained part of a sound. See [[https://www.sfu.ca/sonic-studio-webdav/handbook/Internal_Dynamics.html][internal dynamics]]
 - *granular:* The sustained sound is made of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Grain.html][grains]] e.g. a guiro
 - *transients:* The sustained sound has [[https://www.sfu.ca/sonic-studio-webdav/handbook/Transient.html][transients]] - sudden and brief fluctuation in a sound. e.g. a record player that crackles
 *** TEXTURE 
-The qualitative feel of the sustained part of the sound
+The qualitative feel of the sound
 - *morphing:*   
 - *steady:*
 - *synthetic*
@@ -47,13 +47,15 @@ The qualitative feel of the sustained part of the sound
 - *pure:*   
 - *buzz:*   
 - *fizz:*   
+- *chaotic*
+- *orderly*
 - *hiss:*   
 - *harsh:*   
 - *warm:*   
 - *energetic*:
 *** OBJECT VARIANCE                                
 Describes the variance of the qualities of [[https://www.sfu.ca/sonic-studio-webdav/handbook/Sound_Object.html][sound object]]'s across time. 
-- *chaotic:* e.g. IKEA food section, busy market square, 
+- *varying:* e.g. IKEA food section, busy market square, 
 - *structured:* new sound objects succeed old ones with possibly different qualities, but there is structure e.g. voices on sidewalk of busy street, bird calls
 *** ELEMENT                                          
 Elements involved in the production of the sound. This category helps me the most!
@@ -63,13 +65,13 @@ Elements involved in the production of the sound. This category helps me the mos
 - *water:* Liquid. e.g. water stream
 
 ** Examples
-- cafeteria ambience[parallel stationary air earth chaotic]
-- birds in forest[compound pulse tonal vocal varied]
+- cafeteria ambience[parallel stationary air earth varying]
+- birds in forest[compound pulse tonal vocal structured]
 - dog bark[singular pulse broad vocal]
 - xylophone mallet hit[singular impulse flux tonal steady pure earth]
-- radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing chaotic fire]
+- radio static voices[compound stationary pulse broad tonal transients vocal hiss morphing structured fire]
 - blown bottle top[compound stationary tonal hiss steady air earth]
-- electric saw on wood[compound stationary broad moving granular morphing
-  buzz hiss harsh energetic nuanced fire earth]
+- electric saw on wood[compound broad shifting granular morphing
+  buzz hiss harsh energetic structured fire earth]
 ** References
 My main source was this [[https://www.sfu.ca/sonic-studio-webdav/handbook/index.html][handbook]].
